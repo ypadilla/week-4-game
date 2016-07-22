@@ -1,0 +1,95 @@
+body {
+	background-image: url("../images/bgimg.jpg");
+}
+
+h1{
+	background-color: orange;
+	color: white;
+	display: inline;
+	clear: both;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+#body-wrapper{
+	width: 100%;
+	margin:0 auto;
+}
+
+#introduction{
+	background-color: beige;
+	color: #238E04;
+	font-weight: bold;
+	width: 50%;
+	clear: both;
+	padding: 10px;
+	margin-top: 15px;
+
+}
+
+#guessedNumber{
+	background-color: lightgreen;
+	float: left;
+	display: inline-block;
+	padding: 15px;
+	padding-bottom: 46px;
+	margin-top: 10px;
+
+}
+
+#scoreKeeper{
+	background-color: lightblue;
+	display: inline-block;
+	padding: 15px;
+	padding-right: 25px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+#redG{
+	float: left;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}	
+
+#blueG{
+	float: left;
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#yellowG{
+	float: left;
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+#greenG{
+	float: left;
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#totalScore {
+	background-color: aqua;
+	display: inline;
+	padding: 5px;
+	margin-top: 15px;
+	clear: both;
+	float: left;
+
+}
+
+
+
+#actualScore{
+	background-color: aqua;
+	clear: both;
+	padding: 15px;
+	padding-bottom: 46px;
+	margin-top: 10px;
+	font-weight: bold;
+	
+}
